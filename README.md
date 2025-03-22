@@ -1,12 +1,12 @@
 # Robot Project README
 
 ## Overview
-A brief introduction to the robot, its purpose, and what the repository contains.
+This is the repo for the Winston 3.0 Dragon Robot.
 
 ## Features
-- List key features of the robot.
-- Mention sensors, actuators, or AI capabilities.
-- Describe its main functions.
+- Cheap and easy. 
+- Beginner friendly.
+- Entertaining.
 
 ## Getting Started
 
